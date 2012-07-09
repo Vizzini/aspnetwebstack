@@ -1,15 +1,6 @@
-[Bb]in
-[Oo]bj
-[Tt]est[Rr]esults
-*.suo
-*.user
-*.[Cc]ache
-*[Rr]esharper*
-packages
-NuGet.exe
-_[Ss]cripts
-*.exe
-*.dll
-*.nupkg
-*.ncrunchsolution
-*.dot[Cc]over
+=======
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+
+# mstest test results
+TestResults
